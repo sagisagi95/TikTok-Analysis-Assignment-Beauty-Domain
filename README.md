@@ -37,7 +37,7 @@ The objective is to support **market research and social media strategy** by ide
 #### 4. Sentiment Analysis
 - Reviewed comment sentiment to understand audience perception and emotional responses toward brands
 
-[See full Analysis Deck here]
+[See full Analysis Deck here](docs/TikTok%20Analysis%20Deck.pdf)
 
 ---
 
