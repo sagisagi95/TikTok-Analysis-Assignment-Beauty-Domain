@@ -59,13 +59,13 @@ The objective is to support **market research and social media strategy** by ide
 
 
 ### Some Recommendations
--> Expand creator mix/tiers while preserving Round Lab’s functional, trust-led positioning
--> Diverse content angles while keeping brand core to increase emotional resonance
--> Leverage high-positive sentiment through UGC amplification
+1. Expand creator mix/tiers while preserving Round Lab’s functional, trust-led positioning
+2. Diverse content angles while keeping brand core to increase emotional resonance
+3. Leverage high-positive sentiment through UGC amplification
 
 ---
 
 ### Tools Used
-- Exolyt (hashtag & engagement tracking), manual TikTok search
+- Exolyt (hashtag & engagement tracking), manual TikTok scraping
 - Google Sheets (dashboard & visualization)
-- Python 
+- Python (for sentiment analysis & wordcloud)
